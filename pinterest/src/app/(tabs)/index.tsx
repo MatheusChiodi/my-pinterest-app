@@ -17,5 +17,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: theme.colors.black,
   },
-  text: { fontSize: 22, color: theme.colors.white },
+  text: {
+    fontSize: 22,
+    color: theme.colors.white,
+    fontFamily: theme.fontFamily.bold,
+  },
 });
