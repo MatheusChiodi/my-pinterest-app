@@ -1,0 +1,4 @@
+type AvatarProps = {
+  selected: boolean;
+  
+}
