@@ -1,5 +1,5 @@
-import { PostProps } from "@/components/Post"
+import { PostProps } from '@/components/Posts copy';
 
 export type PostsProps = {
-  posts: PostProps[]
-}
+  posts: PostProps[];
+};

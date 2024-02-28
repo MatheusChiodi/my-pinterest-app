@@ -4,7 +4,7 @@ import { ScrollView } from 'react-native-gesture-handler';
 import { styles } from './styles';
 
 import { PostsProps } from './posts';
-import { Post } from '@/components/Post';
+import { Post } from '@/components/Posts copy';
 
 export function Posts({ posts }: PostsProps) {
   function postsByColumn(column: 'right' | 'left') {
