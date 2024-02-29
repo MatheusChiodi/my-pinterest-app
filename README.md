@@ -13,7 +13,7 @@ The Pinterest clone was created with the intention of replicating some of Pinter
 
 Here's a preview of what the project looks like:
 
-![Demonstração do Projeto](https://raw.githubusercontent.com/MatheusChiodi/my-pinterest-app/main/pinterest/assets/project.jpg?token=GHSAT0AAAAAACML6O4RXV54R2NYRFYQMTOGZO7OYRA)
+![Demonstração do Projeto](https://github.com/MatheusChiodi/my-pinterest-app/blob/main/pinterest/assets/project.jpg)
 
 ## Developed as a Medium of Study
 
